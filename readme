@@ -1,0 +1,11 @@
+--NOT YET FUNCTIONAL--
+
+The Outside API manager
+
+To set the default keys, create a file called "Keys" and put your api keys (Osha I believe it is) in this format:
+
+Service: Key
+
+The manager can also use other keys once installed by taking them in this format.
+
+--NOT YET FUNCTIONAL--

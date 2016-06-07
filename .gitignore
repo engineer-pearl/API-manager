@@ -1,0 +1,7 @@
+##PRIVATE FILES##
+keys
+
+##CONFIG##
+*.conf
+config
+*~
